@@ -1,8 +1,10 @@
 Phishing Website Detection using Machine Learning
 This project focuses on detecting whether a website is phishing or legitimate using machine learning techniques. The model is trained on a dataset containing different features related to website characteristics such as URL, domain, SSL, and behavior.
 
-Dataset Description 
-Dataset Name: Phishing Websites Dataset
+Dataset Description  
+
+Dataset Name: Phishing Websites Dataset  
+
 Source: UCI Machine Learning Repository
 Total Instances: 11,055
 Total Features: 30 input features + 1 target variable
